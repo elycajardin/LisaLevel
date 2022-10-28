@@ -59,4 +59,4 @@ while True:
         for newK in counts:
             newVal.writerow({"Palabra": newK, "Cuenta": counts[newK]})
 
-    time.sleep(1)
+    time.sleep(30)
