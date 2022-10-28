@@ -1,0 +1,19 @@
+# Entregable 0
+Ejercicios combinando todas las herramientas que hemos aprendido como utilizar de manera separada, ahora de manera conjunta en un mismo problema.
+
+
+## Features
+
+- UNIX
+- GIT
+- Python
+- Docker file
+
+
+## Lisa Level
+
+    1. Mejorad el código para descargar la imagen del personaje y guardardla en la carpeta del mismo.
+    2. El código debe mantener un diccionario de palabras y escribir en cada iteración en un fichero el conteo de palabras que lleva:
+        a. The: 1
+        b. Great: 2
+    3. El codigo debe crear de manera dinámica las carpetas con nuevos personajes.
